@@ -1,16 +1,15 @@
-### Hi there 👋
+# whotf*ami?
 
-<!--
-**dci-student-jordan/dci-student-jordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+after all the years still me: loving to code and as a student of the [DCI](https://start.digitalcareerinstitute.org/become-a-python-backend-developer) now trying to get organized with this.
 
-Here are some ideas to get you started:
+### expriences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+for years been cargo-culting with
+- objectiveC
+- Java
+- C++ (openframeworks)
+- Lua
+- html/css
+- javascript
+
+for me this all started with [Pure Data](https://puredata.info/) and [libpd}(https://github.com/libpd)
