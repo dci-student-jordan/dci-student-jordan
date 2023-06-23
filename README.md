@@ -12,4 +12,4 @@ for years been cargo-culting with
 - html/css
 - javascript
 
-for me this all started with [Pure Data](https://puredata.info/) and [libpd}(https://github.com/libpd)
+for me this all started with [Pure Data](https://puredata.info/) and [libpd](https://github.com/libpd)
