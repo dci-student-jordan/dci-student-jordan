@@ -1,15 +1,5 @@
-# whotf*ami?
+# Graduated Python Backend Developer
 
-after all the years still me: loving to code and as a student of the [DCI](https://start.digitalcareerinstitute.org/become-a-python-backend-developer) now trying to get organized with this.
+*studied at the  [DCI](https://start.digitalcareerinstitute.org/become-a-python-backend-developer) (one year full time course).*
 
-### expriences
-
-for years been cargo-culting with
-- objectiveC
-- Java
-- C++ (openframeworks)
-- Lua
-- html/css
-- javascript
-
-for me this all started with [Pure Data](https://puredata.info/) and [libpd](https://github.com/libpd)
+Python, HTML & css, Java Script, OOP, GCP, AWS, CI/CD, Django, RDBMS, SQL & PostgreSQL, Git, php
